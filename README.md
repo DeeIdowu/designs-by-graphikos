@@ -2,6 +2,9 @@
 Graphic designer portfolio utilizing Materialize UI CSS/ SASS as well as jQuery and JavaScript
  
 ## Link:
+https://deeidowu.github.io/designs-by-graphikos/
+ 
+ 
 
 ## Screen Shots
 ![Screen Shot 2019-05-09 at 6 49 45 PM](https://user-images.githubusercontent.com/38046425/57491569-66123280-728b-11e9-9186-1a6e5022b26c.png)
